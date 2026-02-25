@@ -5,9 +5,8 @@ Feel free to use it for educational purposes.
 
 Survey Details:
 
-   Sampling Method: Convenience Sampling
-   
-   No. of Respondents: 8970
+- Sampling Method: Convenience Sampling
+- No. of Respondents: 8970
 
 About this file:
 Section 1 - Demographic
